@@ -1,5 +1,5 @@
 # MovieFlix
-[Demo](https://main--rainbow-bunny-667e2e.netlify.app/)
+[Live Demo](https://main--rainbow-bunny-667e2e.netlify.app/)
 
 Welcome to the MovieFlix! This project is a simple movie application built with React, utilizing React props, Styled Components for styling, and state management for features like adding to cart, rating movies, and adding to favorites.
 
