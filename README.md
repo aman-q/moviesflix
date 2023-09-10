@@ -1,6 +1,6 @@
 # MovieFlix
 
-Welcome to the MovieFlix! This project is a simple movie application built with React, utilizing React props, Styled Components for styling, and state management for features like adding to cart, rating movies, and adding to favorites.
+Welcome to the MovieFlix! This project is a simple movie application built with React, utilizing React props, Styled Components for styling, and state management for features like adding to cart, rating movies, and adding to favorites.[Demo](https://main--rainbow-bunny-667e2e.netlify.app/)
 
 ## Table of Contents
 
